@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: cursive;
+    color: red;
+    text-shadow: 2px 2px;
+}
+
+#part1 {
+    background-color: linear-gradient(magenta, purple, pink);
+}
+
+p {
+    font-size: 20px;
+}
+
+p2 {
+    font-size: 20px;
+}
+
+p3 {
+    font-size: 20px;
+}
+
+p4 {
+    font-size: 20px;
+}
+h2{
+    color: green;
+}
